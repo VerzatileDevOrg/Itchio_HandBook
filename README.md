@@ -4,7 +4,9 @@
 </p>
 <br/>
 
-## Page views ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVerzatileDev%2FItchio_Css_Book&s=30&c=872489&bg=00000000&no=3&ff=digi)
+## Page views 
+
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FVerzatileDev%2FItchio_Css_Book&s=30&c=872489&bg=00000000&no=3&ff=digi)
 
 
 # 1. Book about Itch.io Css
