@@ -1,8 +1,6 @@
 <p align="left">
-<img src="https://www.pixelpajamastudios.com/wp-content/uploads/2020/08/badge-export499.png" />
 <!--- https://visit-counter.vercel.app/ temporary basic Page view -->
 </p>
-<br/>
 
 ## Page views 
 
@@ -12,7 +10,7 @@
 # 1. Book about Itch.io Css
 ## 1.1. Description
 
-Itch.io Css Book is about the information, features, details as well as code snippets in helping developers better understand the interact with [Itch.io](https://itch.io/) website regarding the use of custom css editing
+Itch.io Css Book is about the information, features, details as well as code snippets in helping developers better understand the interaction with [Itch.io](https://itch.io/) website regarding the use of custom css editing
 
 Initiated by [VerzatileDev](https://github.com/VerzatileDev) This is a community project, opened to any contribution.
 
@@ -35,7 +33,6 @@ In order to access the use of Itch.io Css functionality we first need to:
 
 <br>
 </br>
-<hr>
 
 ### Introduction
 
