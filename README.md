@@ -69,4 +69,4 @@ The use of **HTML** editing available on:
     3. Modify/ Make Tables (Size, Position, Rotation).
     4. Picture (Size, Position, Rotation)
 
-Go to [about page](/documentation/gamecell.md)
+Go to [game cell test](gamecell.md)
