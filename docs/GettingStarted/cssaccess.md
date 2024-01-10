@@ -43,6 +43,7 @@ Additionally it is recommended to read the official  [CSS Customization Guide By
 
 For instance, it is required that the content is open with a `#wrapper`condition, further specified with a `<style>` element, which is uniquely identified with an `ID` attribute such as `myAwesomeNewStyle` or an alternative of your choosing. Each `<style>` tag should be initiated with `<style id="myAwesomeNewStyle">` and concluded with `</style>`.
 
+{: .example }
 ```c
     #wrapper
         <style id="myAwesomeNewStyle">
@@ -63,10 +64,10 @@ For instance, it is required that the content is open with a `#wrapper`condition
 
 **Header**
 
-![Header](/images/headerExample.png)
+![Header](/Assets/images/headerExample.png)
 
 **Footer**
-![Footer](/images/footerExample.png)
+![Footer](/Assets/images/footerExample.png)
 
 <br>
 
@@ -92,9 +93,3 @@ Please aim to keep it simple and provide the general basic outline for what you 
 At the end of the e-mail, mention that you have indeed read and understood the [terms and conditions of using CSS on Itch.io](https://itch.io/docs/creators/css-guide).
 After the e-mail has been sent expect to be notified no less than a week or more of writing the form if it was successfully accepted or denied.
 
-
-<br>
-
-<br>
-
-Noticed a mistake on the page, Contribute [here](https://github.com/VerzatileDev/Itchio_HandBook/tree/main/docs/GettingStarted/cssaccess.md).

@@ -1,7 +1,7 @@
 ---
 title: Up coming content
 layout: default
-has_children: true
+has_children: false
 nav_order: 4
 permalink: docs/FollowingContent
 ---
@@ -9,10 +9,4 @@ permalink: docs/FollowingContent
 {{ page.title }}
 ======================
 
-<br>
-
-<!-- https://pngimg.com/image/50755 Image Source (Unmodified)-->
-<img src="/images/under_construction.png" alt="Header" style="width:20%;">
-<br>
-
-Please Return back next time.
+{% include under_construction.html %}

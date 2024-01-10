@@ -32,8 +32,6 @@ Use cases:
 
 The CSS editor governs the interface of each element on a page, including its content. This is facilitated through the "Built-in" theme editor. 
 
-<br>
 
-<br>
-
-Noticed a mistake on the page, Contribute [here](https://github.com/VerzatileDev/Itchio_HandBook/tree/main/docs/GettingStarted/usecasescss.md).
+#### Author: VerzatileDev
+#### Published: 10/01/2024
