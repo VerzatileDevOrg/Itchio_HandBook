@@ -26,7 +26,6 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Choose and select "View Page Source" or use `Ctrl + U` to access a new page displaying the HTML and CSS code of the page.
 
 <!-- Shows how to access and view Page Source -->
-
 <img src="{{ site.baseurl }}/Assets/images/viewPageSource.png" alt="View Page Source Example" style="width:80%;">
 
 <br>
@@ -37,6 +36,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Copy the portion starting from "." to "{" until the closing "}".
 
 <!-- Shows example of the Page Source -->
+
 <img src="{{ site.baseurl }}/Assets/images/pageSource.png" alt="Page Source Example" style="width:80%;">
 
 <!-- Shows correct content of the page source -->
@@ -65,6 +65,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
 
 <!-- Shows "Edit Theme" section of content -->
 <img src="{{ site.baseurl }}/Assets/images/customCssField.png" alt="Custom Css Field Example" style="width:30%;">
+
 
 <br>
 
