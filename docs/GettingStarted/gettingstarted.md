@@ -15,4 +15,5 @@ These aspects are designed to make you stand out from the rest of the community 
 
 Please follow the sections starting from the contents of this section and integrating towards the more advanced methodologies and concepts.
 
-Noticed a mistake on the page, Contribute [here](https://github.com/VerzatileDev/Itchio_HandBook/tree/main/docs/GettingStarted/gettingstarted.md).
+#### Author: VerzatileDev
+#### Published: 10/01/2024
