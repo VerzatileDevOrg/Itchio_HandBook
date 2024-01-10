@@ -27,9 +27,5 @@ Use cases:
 The HTML Editor oversees user-provided content within the sections "Details" and "Development-Log," accessible via the `< >` section of the text panel. 
 
 
-<br>
-
-
-<br>
-
-Noticed a mistake on the page, Contribute [here](https://github.com/VerzatileDev/Itchio_HandBook/tree/main/docs/GettingStarted/usecaseshtml.md).
+#### Author: VerzatileDev
+#### Published: 10/01/2024

@@ -17,7 +17,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Visit the user page (`user_name.itch.io`) or asset pages (`user_name.itch.io/assetOrGame`) using Browsers such as: **Microsoft Edge, Internet Explorer, or Chrome**.
 
 <!-- Showcasing a user Page -->
-![Header](/images/editUserTheme.png)
+![Header](/Assets/images/editUserTheme.png)
 
 <br>
 
@@ -26,7 +26,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Choose and select "View Page Source" or use `Ctrl + U` to access a new page displaying the HTML and CSS code of the page.
 
 <!-- Shows how to access and view Page Source -->
-![Header](/images/viewPageSource.png)
+![Header](/Assets/images/viewPageSource.png)
 
 <br>
 
@@ -36,10 +36,10 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Copy the portion starting from "." to "{" until the closing "}".
 
 <!-- Shows example of the Page Source -->
-![Header](/images/pageSource.png)
+![Header](/Assets/images/pageSource.png)
 
 <!-- Shows correct content of the page source -->
-![Header](/images/pageSourceContent.png)
+![Header](/Assets/images/pageSourceContent.png)
 
 <br>
 
@@ -54,10 +54,10 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Click "Edit Theme" to open a side panel to the left.
 
 <!-- Shows the location of "Edit Theme" -->
-![Header](/images/headerExample.png)
+![Header](/Assets/images/headerExample.png)
 
 <!-- Shows "Edit Theme" Side Panel -->
-![Header](/images/themeSidePanel.png)
+![Header](/Assets/images/themeSidePanel.png)
 
 <br>
 
@@ -66,7 +66,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Inside, there is a section called "Custom CSS" click on the associated field.
 
 <!-- Shows "Edit Theme" section of content -->
-![Header](/images/customCssField.png)
+![Header](/Assets/images/customCssField.png)
 
 <br>
 
@@ -76,7 +76,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Click "save"
 
 <!-- Shows "Edit Theme" section of content CSS field -->
-![Header](/images/editCssBox.png)
+![Header](/Assets/images/editCssBox.png)
 
 <br>
 
@@ -88,25 +88,23 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
 
 **Final State:**
 
-   - The final CSS structure:
-     ```css
-     #wrapper <style id="userContent">
-       
-       .someCopiedSection {
-         /* Your style content here */
-       }
+   {: .example }
+   ```css
+   #wrapper <style id="userContent">
+      
+      .someCopiedSection {
+      /* Your style content here */
+      }
 
-        /* Your access part here */
+      /* Your access part here */
 
-        .someCopiedSection2 {
-         /* Your style content here */
-       }
+      .someCopiedSection2 {
+      /* Your style content here */
+      }
+   </style>
+   ```
 
-     </style>
-     ```
+   ---
 
-     <br>
-
-     <br>
-
-Noticed a mistake on the page, Contribute [here](https://github.com/VerzatileDev/Itchio_HandBook/tree/main/docs/GettingStarted/borrowcss.md).
+#### Author: VerzatileDev
+#### Published: 10/01/2024
