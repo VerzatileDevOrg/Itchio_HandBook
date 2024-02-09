@@ -17,7 +17,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Visit the user page (`user_name.itch.io`) or asset pages (`user_name.itch.io/assetOrGame`) using Browsers such as: **Microsoft Edge, Internet Explorer, or Chrome**.
 
 <!-- Showcasing a user Page -->
-<img src="{{ site.baseurl }}/Assets/images/editUserTheme.png" alt="Edit User Theme Example" style="width:80%;">
+<img src="{{ site.baseurl }}/assets/images/editUserTheme.png" alt="Edit User Theme Example" style="width:80%;">
 
 <br>
 
@@ -26,7 +26,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Choose and select "View Page Source" or use `Ctrl + U` to access a new page displaying the HTML and CSS code of the page.
 
 <!-- Shows how to access and view Page Source -->
-<img src="{{ site.baseurl }}/Assets/images/viewPageSource.png" alt="View Page Source Example" style="width:80%;">
+<img src="{{ site.baseurl }}/assets/images/viewPageSource.png" alt="View Page Source Example" style="width:80%;">
 
 <br>
 
@@ -37,10 +37,10 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
 
 <!-- Shows example of the Page Source -->
 
-<img src="{{ site.baseurl }}/Assets/images/pageSource.png" alt="Page Source Example" style="width:80%;">
+<img src="{{ site.baseurl }}/assets/images/pageSource.png" alt="Page Source Example" style="width:80%;">
 
 <!-- Shows correct content of the page source -->
-<img src="{{ site.baseurl }}/Assets/images/pageSourceContent.png" alt="Page Source Content" style="width:60%;">
+<img src="{{ site.baseurl }}/assets/images/pageSourceContent.png" alt="Page Source Content" style="width:60%;">
 
 <br>
 
@@ -55,7 +55,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Click "Edit Theme" to open a side panel to the left.
 
 <!-- Shows "Edit Theme" Side Panel -->
-<img src="{{ site.baseurl }}/Assets/images/themeSidePanel.png" alt="Theme Side Panel Example" style="width:80%;">
+<img src="{{ site.baseurl }}/assets/images/themeSidePanel.png" alt="Theme Side Panel Example" style="width:80%;">
 
 <br>
 
@@ -64,7 +64,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Inside, there is a section called "Custom CSS" click on the associated field.
 
 <!-- Shows "Edit Theme" section of content -->
-<img src="{{ site.baseurl }}/Assets/images/customCssField.png" alt="Custom Css Field Example" style="width:30%;">
+<img src="{{ site.baseurl }}/assets/images/customCssField.png" alt="Custom Css Field Example" style="width:30%;">
 
 
 <br>
@@ -75,7 +75,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    - Click "save"
 
 <!-- Shows "Edit Theme" section of content CSS field -->
-<img src="{{ site.baseurl }}/Assets/images/editCssBox.png" alt="Edit Css Box Example" style="width:60%;">
+<img src="{{ site.baseurl }}/assets/images/editCssBox.png" alt="Edit Css Box Example" style="width:60%;">
 
 <br>
 
