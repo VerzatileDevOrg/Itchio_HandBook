@@ -27,5 +27,7 @@ Use cases:
 The HTML Editor oversees user-provided content within the sections "Details" and "Development-Log," accessible via the `< >` section of the text panel. 
 
 
+---
+
 #### Author: VerzatileDev
 #### Published: 10/01/2024

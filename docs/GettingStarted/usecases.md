@@ -33,5 +33,7 @@ Use cases:
 The CSS editor governs the interface of each element on a page, including its content. This is facilitated through the "Built-in" theme editor. 
 
 
+---
+
 #### Author: VerzatileDev
 #### Published: 10/01/2024

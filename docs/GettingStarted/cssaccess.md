@@ -94,3 +94,8 @@ Please aim to keep it simple and provide the general basic outline for what you 
 At the end of the e-mail, mention that you have indeed read and understood the [terms and conditions of using CSS on Itch.io](https://itch.io/docs/creators/css-guide).
 After the e-mail has been sent expect to be notified no less than a week or more of writing the form if it was successfully accepted or denied.
 
+
+---
+
+#### Author: VerzatileDev
+#### Published: 10/01/2024

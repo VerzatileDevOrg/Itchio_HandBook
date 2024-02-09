@@ -103,7 +103,7 @@ To replicate the CSS style of a user's asset and or a game page on [itch.io](htt
    </style>
    ```
 
-   ---
+---
 
 #### Author: VerzatileDev
 #### Published: 10/01/2024
