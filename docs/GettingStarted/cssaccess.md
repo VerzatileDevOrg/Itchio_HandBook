@@ -64,11 +64,11 @@ For instance, it is required that the content is open with a `#wrapper`condition
 
 **Header**
 
-<img src="{{ site.baseurl }}/Assets/images/headerExample.png" alt="Header Example" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/headerExample.png" alt="Header Example" style="width:100%;">
 
 **Footer**
 
-<img src="{{ site.baseurl }}/Assets/images/footerExample.png" alt="Footer Example" style="width:100%;">
+<img src="{{ site.baseurl }}/assets/images/footerExample.png" alt="Footer Example" style="width:100%;">
 
 <br>
 
