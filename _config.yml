@@ -7,8 +7,6 @@ url: https://just-the-docs.github.io
 aux_links:
   Contribute to the Github Repository: https://github.com/VerzatileDev/Itchio_HandBook
 
-back_to_top: true # Works through Footer.html
-
 plugins:
   - jekyll-last-modified-at
 

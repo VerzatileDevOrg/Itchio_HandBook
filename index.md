@@ -2,6 +2,7 @@
 title: Home
 layout: default
 nav_order: 1
+back_to_top: false
 ---
 
 ## About
