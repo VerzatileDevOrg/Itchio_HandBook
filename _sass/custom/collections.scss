@@ -37,66 +37,12 @@
     content: "Warning !";
 }
 
-/// Future Developers - Please Take notice of Following:
-/// Collections must be Represented as  ::Before  :not .collection
-/// .warning::before , .warning:not , .warning
-/// 
-/// Aim to use Hex Color scheme fo Background, Fonts and other sections.
-/// To assure global viability of each browser.
-/// Please Seperate new Collections by two Lines
-/// Bracket endings with a line
-/// 
-/// Functionalities modifiable::
-/// - content of each collection can be changed by using {: . ...  title="NewTitle"} 
-/// For each collection, and should as well be used for any future ones represented.
-/// 
-/// TO DO: Assign Coloring On the basis of the Webs Current Theme such as Dark of Light!
-
-// -------------COLLECTIONS-----------------//
-
-// --- WARNING ----
-// Use the following specifically to give out attention to some important notice or issue that may be occured or changed.
-// The current one makes a Box, with either a Default or manual written Title top box
-// Then a bottom box for the content that would be displayed under {: .warning } content..
-.warning::before {
-    content: attr(title);
-    color: #ffffff;
-    background-color: #f0b37e;
-    margin: -15px -15px 15px;
-    display: block;
-    font-weight: bold;
-    font-size: 1.00em;
-    padding-bottom: 0.125rem;
-    padding: 6px 12px;
-    border-radius: 6px;
-}
-
-// If a specified Title is not defined by {: .warning title="newAWesomeTitle"}, then use default title, can also be empty!
-.warning:not([title])::before {
-    content: "Warning !";
-}
-
 .warning {
     position: relative;
     border-radius: 6px;
     background-color: #FFEDCB;
-    border-radius: 6px;
-    background-color: #FFEDCB;
     padding: 0.8rem;
     left: 5px;
-    color: #404040;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-}
-
-
-// --- ISSUE ----
-// Use this specify a problem with the specified content or example, can be used for other contexts.
-// Generates a Title element without a box at the top of the content written after {: .issue } content..
-.issue::before {
-    content: attr(title);
-    color: #ffffff;
-    background-color: #f07e7e;
-    margin: -15px -15px 15px;
     color: #404040;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
@@ -113,19 +59,7 @@
     display: block;
     font-weight: bold;
     font-size: 1.00em;
-    font-size: 1.00em;
     padding-bottom: 0.125rem;
-    padding: 6px 12px;
-    border-radius: 6px;
-}
-
-// If a specified Title is not defined by {: .note title="newAWesomeTitle"}, then use default title, can also be used as "" Empty.
-.issue:not([title])::before {
-    content: "Issue !";
-}
-
-.issue {
-    background: #ff7d7d33;
     padding: 6px 12px;
     border-radius: 6px;
 }
@@ -150,22 +84,9 @@
 .new::before {
     content: attr(title);
     color: #ffffff;
-    left: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-}
-
-
-// --- NEW ---
-// Use this to specify new Updates, changes to code, documentation, versions etc.
-// Generates a Title element without a box at the top of the content written after {: .new } content..
-.new::before {
-    content: attr(title);
-    color: #ffffff;
     display: block;
     background-color: #1abc9c;
-    background-color: #1abc9c;
     font-weight: bold;
-    font-size: 1.00em;
     font-size: 1.00em;
     padding-bottom: 0.125rem;
     margin: -15px -15px 15px;
@@ -180,30 +101,8 @@
 
 .new {
     background: #e7f2fa;
-    margin: -15px -15px 15px;
-    padding: 6px 12px;
-    border-radius: 6px;
-}
-
-// If a specified Title is not defined by {: .note title="newAWesomeTitle"}, then use default title, can also be used as "" Empty.
-.new:not([title])::before {
-    content: "New !";
-}
-
-.new {
-    background: #e7f2fa;
     border-radius: 4px;
     padding: 0.8rem;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-}
-
-// ----IMPORTANT-------
-// Use this to specify an important resource of context before using the given content, or use this as a reminder to the reader what they 
-// should keep in mind with the given information, etc.
-// Generates a Title elements without a box at the top of the content written after {: .important } content..
-.important::before {
-    content: attr(title);
-    color: #dd2e2e;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -220,13 +119,6 @@
     font-size: 0.75em;
     padding-bottom: 0.125rem;
 }
-
-// If a specified Title is not defined by {: .important title="newAWesomeTitle"}, then use default title, can also be used as "" Empty.
-.important:not([title])::before {
-    content: "Important!";
-}
-
-.important {
 
 // If a specified Title is not defined by {: .important title="newAWesomeTitle"}, then use default title, can also be used as "" Empty.
 .important:not([title])::before {
@@ -248,16 +140,6 @@
 .note::before {
     content: attr(title);
     color: #183385;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-}
-
-// ----NOTE----
-// Use this to specify some context that the reader should focus on for the given changes or content that should be read before continuing
-// Can as well be used to specify any other important context, that the reader should take of notice.
-// Generates a Title element without a box at the top of the content written after {: .note } content..
-.note::before {
-    content: attr(title);
-    color: #183385;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
@@ -273,25 +155,10 @@
 .note {
     background: rgba(44, 132, 250, 0.2);
     border-left: 4px solid #183385;
-
-// If a specified Title is not defined by {: .note title="newAWesomeTitle"}, then use default title, can also be used as "" Empty.
-.note:not([title])::before {
-    content: "Note:";
-}
-
-.note {
-    background: rgba(44, 132, 250, 0.2);
-    border-left: 4px solid #183385;
     border-radius: 4px;
     padding: 0.8rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
-
-
-// --- FURTHER READING ----
-// Additional context to the given content, what the reader could read to better understand the given text.
-// Generates a Title element without a box at the top of the content written after {: .further-reading } content..
 
 
 // --- FURTHER READING ----
@@ -299,8 +166,7 @@
 // Generates a Title element without a box at the top of the content written after {: .further-reading } content..
 .further-reading::before {
     content: attr(title);
-    content: attr(title);
-    color: #381885;
+    color: #8a67da;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
@@ -316,17 +182,8 @@
 .further-reading {
     background: rgba(114, 83, 237, 0.2);
     border-left: 4px solid #381885;
-// If a specified Title is not defined by {: .note title="newAWesomeTitle"}, then use default title, can also be used as "" Empty.
-.further-reading:not([title])::before {
-    content: "Further Reading:";
-}
-
-.further-reading {
-    background: rgba(114, 83, 237, 0.2);
-    border-left: 4px solid #381885;
     border-radius: 4px;
     padding: 0.8rem;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
@@ -337,7 +194,7 @@
 .example {
     position: relative;
     border-radius: 5px;
-    background: rgba(143, 128, 190, 0.301);
+    background: rgba(114, 83, 237, 0.2);
     padding: 0.8rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
