@@ -194,14 +194,14 @@
 .example {
     position: relative;
     border-radius: 5px;
-    background: rgba(114, 83, 237, 0.2);
+    background: rgba(143, 128, 190, 0.301);
     padding: 0.8rem;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
 }
 
 .example::before {
     content: "Example:";
-    color: #381885;
+    color: #8a67da;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
@@ -221,7 +221,7 @@
 // Though won't be rendered as a codeblock itself, would be used for Specific 1 line examples
 .code::before {
     content: attr(title);
-    color: #381885;
+    color: #8a67da;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
