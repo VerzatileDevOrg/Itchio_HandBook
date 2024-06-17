@@ -7,15 +7,17 @@ assignees: VerzatileDev
 
 ---
 
-Description:
-(Example "The information on Python is incorrect/isn't accurate"
-- > 
+**Description:**
+
+<blockquote>(Example "The information on page (Link), is incorrect or has issues with copyright")</blockquote>
 
 
-Proposed Change:
-(Explain what changes should be contributed or taken out in solving the issue)
-->
+**Proposed Change:**
 
-Additional Notes:
-(More context to add or to talk explain here)
-->
+<blockquote>(Explain what changes should be contributed or taken out in solving the issue)</blockquote>
+
+
+**Additional Notes:**
+
+<blockquote>(More context to add, explain here)</blockquote>
+
