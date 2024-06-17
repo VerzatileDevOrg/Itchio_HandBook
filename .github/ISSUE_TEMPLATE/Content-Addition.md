@@ -1,18 +1,17 @@
-- **What content is missing and what does it address**
+---
+name: Article Writing
+about: Have a question about the structure of articles or how to add pages?
+title: "[Article Q] - "
+labels: ''
+assignees: ''
 
+---
 
-->
+**Question on the topic **
 
+- Describe the issue or a question you have for writing articles.
 
-- **Describe the content and how it should be added/addressed**
+**Additional Notes:**
 
-
--> 
-
-- **Want to write about the content, that would be added, please write here**
-
--> 
-
-- **Additional Notes:**
-
-->
+- Describe your references and what you have read previously regarding the topic..
+- Or explain if there are any changes required (Possibly add solutions or ideas on how to do it).
