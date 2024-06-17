@@ -11,13 +11,18 @@ assignees: VerzatileDev
 
 <blockquote>(Example "The information on page (Link), is incorrect or has issues with copyright")</blockquote>
 
+<br>
 
 **Proposed Change:**
 
 <blockquote>(Explain what changes should be contributed or taken out in solving the issue)</blockquote>
 
+<br>
 
 **Additional Notes:**
 
+<br>
+
 <blockquote>(More context to add, explain here)</blockquote>
 
+<br>
