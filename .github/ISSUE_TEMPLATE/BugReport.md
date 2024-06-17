@@ -11,6 +11,7 @@ assignees: ''
 
 <blockquote>Describe the issue presented.</blockquote>
 
+<br>
 
 **To Reproduce**
 
@@ -20,16 +21,20 @@ assignees: ''
 3. Scroll down to '....' <br>
 4. See error</blockquote>
 
+<br>
+
 
 **Expected behaviour**
 
 <blockquote>A clear and concise description of what you expected to happen.</blockquote>
 
+<br>
 
 **Screenshots**
 
 <blockquote>If applicable, add screenshots to help explain your problem.</blockquote>
 
+<br>
 
 **Platform**
 
@@ -40,7 +45,10 @@ assignees: ''
  - Version [e.g. 22] <br>
 </blockquote>
 
+<br>
 
 **Additional context**
 
 <blockquote>If there is additional information to add about the issue reference it here.</blockquote>
+
+<br>
