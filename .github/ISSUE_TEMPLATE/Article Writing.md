@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Topic **
+**Topic**
 
 <blockquote>Describe the issue or a question you have on writing a given article(s).</blockquote>
 
