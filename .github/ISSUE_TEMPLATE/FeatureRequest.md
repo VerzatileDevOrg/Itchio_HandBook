@@ -9,16 +9,24 @@ assignees: ''
 
 **Description:**
 
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+<blockquote>A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]</blockquote>
+
+<br>
 
 **Proposed Solution:**
 
-A clear and concise description of what you want to happen.
+<blockquote>A clear and concise description of what you want to happen.</blockquote>
+
+<br>
 
 **Alternatives:**
 
-A clear and concise description of any alternative solutions or features you've considered.
+<blockquote>A clear and concise description of any alternative solutions or features you've considered.</blockquote>
+
+<br>
 
 **Additional Context**
 
-Add any other context or screenshots about the feature request here.
+<blockquote>Add any other context or screenshots about the feature request here.</blockquote>
+
+<br>
