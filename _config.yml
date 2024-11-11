@@ -16,3 +16,12 @@ last-modified-at:
 
 # Color Theme
 color_scheme: light
+
+# Just the Docs theme specific settings
+just_the_docs:
+  show_parent_navigation: true     # Enable parent navigation
+  search_enabled: true             # Enable search functionality
+  # Add other Just the Docs settings if needed
+
+# Show navigation error report
+nav_error_report: true # default is false/nil.
