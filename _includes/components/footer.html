@@ -1,0 +1,18 @@
+<div class="footer">
+    <hr>
+  
+    {% if page.back_to_top != false %}
+    <p>
+      <a href="#" id="back-to-top">Back to Top</a>
+    </p>
+    {% endif %}
+    
+    <div>
+      <p>Last Modified: {{ page.last_modified_at | date: '%A, %d %B %Y %R:%S' }}</p>
+    </div>
+  
+    <p>
+      Noticed a mistake?
+      <a href="{{ site.github_base_url }}/blob/main{{ page.dir }}{{ page.name | replace: '_', '-' }}" target="_blank">Edit this page on GitHub</a>
+    </p>
+  </div>
