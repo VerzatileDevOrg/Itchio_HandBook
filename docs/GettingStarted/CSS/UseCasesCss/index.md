@@ -2,7 +2,8 @@
 title: Use Cases CSS
 layout: default
 parent: Getting Started
-nav_order: 3
+nav_order: 2
+parent: CSS
 ---
 
 {{ page.title }}

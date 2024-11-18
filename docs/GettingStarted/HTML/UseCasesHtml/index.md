@@ -1,8 +1,8 @@
 ---
 title: Use Cases HTML
 layout: default
-parent: Getting Started
-nav_order: 4
+parent: HTML
+nav_order: 2
 ---
 
 ### <ins>HTML Editing Availability Types</ins>

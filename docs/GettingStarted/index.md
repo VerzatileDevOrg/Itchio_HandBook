@@ -9,14 +9,10 @@ permalink: docs/GettingStarted
 {{ page.title }}
 ======================
 
-The following section covers the functionalities, use cases, access to CSS & HTML on the website of Itch.io including the general knowledgebase to get started in learning and understanding the design of your very own website beautification. 
+{: .note title="The following sections Cover:"}
+Access, use cases and identification for `CSS / HTML ` on the website of [Itch.io](https://itch.io/) to get started in costumizing your very own content.
 
-These aspects are designed to make you stand out from the rest of the community and be truly yourself on what you are aiming to offer as an experience. 
+Start with the [HTML Section](HTML) offering the basics of the website that are available to use without an approval from the creators or Itch.io offering useful changes to the listed areas listed here: [HTML Access](HtmlAccess), additionally see information on [Use Cases](UseCasesHtml) to get further information on what can be changed an how.
 
-Please follow the sections starting from the contents of this section and integrating towards the more advanced methodologies and concepts.
+For more advanced users take a look at accessing [Itch.io's Css](./CSS/CssAccess/), offering wide variety of costumization to the visual side of content, to see the use cases and suggestions see [Css use cases](./CSS/UseCasesCss/)
 
-
----
-
-#### Author: VerzatileDev
-#### Published: 10/01/2024
