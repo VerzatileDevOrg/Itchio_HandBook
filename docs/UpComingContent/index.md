@@ -1,5 +1,6 @@
 ---
 title: Up coming content
+description: Article talks about about future development plans to the resource and upcoming changes as of currently. Read more here!..
 layout: default
 has_children: true
 nav_order: 4

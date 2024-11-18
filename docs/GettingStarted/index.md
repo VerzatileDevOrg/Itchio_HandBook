@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Getting Started
+description: The following section covers areas of Itch.io on HTML & CSS, get started with knowledge and read more here!..
 nav_order: 2
 has_children: true
 permalink: docs/GettingStarted

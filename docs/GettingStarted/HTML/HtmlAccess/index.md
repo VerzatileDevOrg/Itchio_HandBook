@@ -1,5 +1,6 @@
 ---
 title: Access to HTML
+description: Article talks about itch.io's user modification to Text, Image(s) and Content field for Game, Asset, Tool and user page. Read more here!..
 layout: default
 parent: HTML
 nav_order: 1

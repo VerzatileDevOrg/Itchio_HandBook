@@ -1,5 +1,6 @@
 ---
 title: Borrow user CSS
+description: Article talks about on how to borrow itch.io's CSS content on other creators's Itch.io creator or content page(s). Read more here!..
 layout: default
 parent: Getting Started
 nav_order: 4

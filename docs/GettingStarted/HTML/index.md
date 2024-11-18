@@ -1,6 +1,7 @@
 ---
 title: HTML
 layout: default
+description: The article talks about Itch.io's HTML such as Use Cases, Access & more.
 nav_order: 1
 parent: Getting Started
 ---

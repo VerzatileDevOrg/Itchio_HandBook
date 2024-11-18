@@ -1,5 +1,6 @@
 ---
 title: CSS
+description: Article talks about itch.io's CSS functionality and other areas specified for more advanced users to collectively improve their content on the website.
 layout: default
 parent: Getting Started
 nav_order: 2

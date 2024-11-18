@@ -1,5 +1,6 @@
 ---
 title: Use Cases CSS
+description: Article talks about itch.io's Use Cases for Itch.io's CSS. Read more here!..
 layout: default
 parent: Getting Started
 nav_order: 3

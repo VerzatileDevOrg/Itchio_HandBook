@@ -1,5 +1,6 @@
 ---
 title: Use Cases HTML
+description: The following section covers areas where HTML element through `<>` can be used to modify the content written or displayed in the given content field.
 layout: default
 parent: HTML
 nav_order: 2
