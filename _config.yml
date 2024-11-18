@@ -5,7 +5,9 @@ theme: just-the-docs
 url: https://just-the-docs.github.io
 
 aux_links:
-  Contribute to the Github Repository: https://github.com/VerzatileDev/Itchio_HandBook
+  Contribute to the Github Repository: https://github.com/VerzatileDevOrg/Itchio_HandBook
+
+github_base_url: "https://github.com/VerzatileDevOrg/Itchio_HandBook"
 
 plugins:
   - jekyll-last-modified-at
