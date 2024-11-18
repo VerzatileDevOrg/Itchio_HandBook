@@ -139,7 +139,7 @@
 // Generates a Title element without a box at the top of the content written after {: .note } content..
 .note::before {
     content: attr(title);
-    color: #183385;
+    color: #537aee;
     display: block;
     font-weight: bold;
     text-transform: uppercase;
