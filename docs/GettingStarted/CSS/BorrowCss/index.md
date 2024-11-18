@@ -6,103 +6,115 @@ nav_order: 4
 parent: CSS
 ---
 
-# Accessing and borrowing user CSS on itch.io
+{{ page.title }}
+======================
 
 <br>
 
-To replicate the CSS style of a user's asset and or a game page on [itch.io](https://itch.io/), follow these steps:
+{: .note }
+In the following section, gives a possibility to take other creators CSS and use it on your own projects or user page. <br> <br>
+Strcture of the guide is on [Identifying CSS Elements](../IdentifyCssElements/) and using them <br>
+Make sure to request [Access to CSS](../CssAccess/) before following the guide.
 
 <br>
 
-**Find and Locate the Desired Page:**
-   - Visit the user page (`user_name.itch.io`) or asset pages (`user_name.itch.io/assetOrGame`) using Browsers such as: **Microsoft Edge, Internet Explorer, or Chrome**.
-
-<!-- Showcasing a user Page -->
-<img src="{{ site.baseurl }}/assets/images/editUserTheme.png" alt="Edit User Theme Example" style="width:80%;">
+## Guidelines
 
 <br>
 
-**Access HTML and CSS Code:**
+1. **Find and Locate the Desired Page Resource:**
+   - Visit another creators (`user_name.itch.io`) page or (`user_name.itch.io/assetOrGame`) asset pages using Browsers such as: **Microsoft Edge, Internet Explorer, or Chrome**.
+
+<br>
+
+<img src="{{ site.baseurl }}/assets/images/editUserTheme.png" alt="Edit User Theme Example" style="width:100%;">
+
+<br>
+
+2. **Locate the CSS Code:**
    - Right-click on the desired page.
-   - Choose and select "View Page Source" or use `Ctrl + U` to access a new page displaying the HTML and CSS code of the page.
-
-<!-- Shows how to access and view Page Source -->
-<img src="{{ site.baseurl }}/assets/images/viewPageSource.png" alt="View Page Source Example" style="width:80%;">
+   - Choose and select `View Page Source` or use `Ctrl + U` to access a new page displaying both the HTML and CSS code of the page.
+   - For the following we are only interested in `CSS`.
 
 <br>
 
-**Identify CSS Content:**
+<img src="{{ site.baseurl }}/assets/images/viewPageSource.png" alt="View Page Source Example" style="width:100%;">
+
+<br>
+
+3. **Identify CSS Content:**
    - Look for the user's CSS content, available right after either `<style id="user_defined_style_name">` and `#wrapper`.
-   - If these are not present, locate content starting with a period (e.g., ".column.profile_column{}") or text without coloring written in pure white (In an Unmodified browser).
-   - Copy the portion starting from "." to "{" until the closing "}".
+   - If these are not present, locate content starting with a `.` as for example `(e.g., ".column.profile_column{}")` or text without coloring written in pure white (In an Unmodified browser).
+   - Copy the portion starting from `.` to `{" until the closing "}` opening and closing brackets.
 
-<!-- Shows example of the Page Source -->
+<br>
 
-<img src="{{ site.baseurl }}/assets/images/pageSource.png" alt="Page Source Example" style="width:80%;">
+<img src="{{ site.baseurl }}/assets/images/pageSource.png" alt="Page Source Example" style="width:100%;">
 
-<!-- Shows correct content of the page source -->
+<br>
+
 <img src="{{ site.baseurl }}/assets/images/pageSourceContent.png" alt="Page Source Content" style="width:60%;">
 
 <br>
 
-**Verify Accessibility:**
-   - Ensure you have followed the steps in "Accessing CSS for Itch.io" on your own user, asset, or game page.
-   - Continue to your page or content `my_user_page.itch.io` and make sure you have read how to enable [CSS editing access](cssaccess.html).
+4. **Assure Accessibility:**
+   - Ensure to follow the steps in [Accessing CSS](../CssAccess/) for your content and or userpage.
+   - Continue to your page or content `my_user_page.itch.io`.
 
 <br>
 
-**Edit Theme:**
-   - If logged in and the web page is in its default size, locate an "Edit Theme" button, available on user header [5.UI Header](cssaccess.html).
-   - Click "Edit Theme" to open a side panel to the left.
+5. **Edit Theme:**
+   - If (Logged in) and the web page is in its default size, locate an `Edit Theme` button, available on user header [4.UI Modification Restrictions for Header section](../CssAccess/).
+   - Click `Edit Theme` to open a side panel to the left.
 
-<!-- Shows "Edit Theme" Side Panel -->
+<br>
+
 <img src="{{ site.baseurl }}/assets/images/themeSidePanel.png" alt="Theme Side Panel Example" style="width:80%;">
 
 <br>
 
-**Navigate to "Custom CSS" in "Misc" Section:**
-   - Scroll down to the "Misc" section.
-   - Inside, there is a section called "Custom CSS" click on the associated field.
-
-<!-- Shows "Edit Theme" section of content -->
-<img src="{{ site.baseurl }}/assets/images/customCssField.png" alt="Custom Css Field Example" style="width:30%;">
-
+6. **Navigate to "Custom CSS" in "Misc" Section:**
+   - Scroll down to the `Misc` section.
+   - Inside, there is a section called `Custom CSS` click on the associated field.
 
 <br>
 
-**Paste Borrowed CSS:**
-   - The box is where you can use the "CSS that was borrowed" or your own text.
-   - Paste the copied CSS into the box.
-   - Click "save"
+<img src="{{ site.baseurl }}/assets/images/customCssField.png" alt="Custom Css Field Example" style="width:40%;">
 
-<!-- Shows "Edit Theme" section of content CSS field -->
+<br>
+
+7. **Paste Borrowed CSS:**
+   - The box is where you can use the `CSS that was borrowed` or your own text.
+   - Paste the copied CSS into the box.
+   - Click `save`
+
+<br>
+
 <img src="{{ site.baseurl }}/assets/images/editCssBox.png" alt="Edit Css Box Example" style="width:60%;">
 
 <br>
 
-**Preview Changes:**
+8. **Preview Changes:**
    - Review and ensure the desired content was affected.
-   - (Make sure to Save the content).
+   - (Make sure to `Save` after modifications).
    
 <br>
 
-**Final State:**
-
-   {: .example }
-   ```css
-   #wrapper <style id="userContent">
+{: .example }
+```css
+#wrapper <style id="userContent">
       
-      .someCopiedSection {
-      /* Your style content here */
-      }
+   .someCopiedSection {
+   /* Your style content here */
+   }
 
-      /* Your access part here */
+   /* Your access part here */
 
-      .someCopiedSection2 {
-      /* Your style content here */
-      }
-   </style>
-   ```
+   .someCopiedSection2 {
+   /* Your style content here */
+   }
+</style>
+ ```
 
 ---
 

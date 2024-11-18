@@ -8,6 +8,8 @@ nav_order: 2
 {{ page.title }}
 ======================
 
+<br>
+
 {: .note}
 In order to use and modify elements talked about in this section, please first take a look at [Access to CSS](./CssAccess/) this sets the core of the topics at hand!
 

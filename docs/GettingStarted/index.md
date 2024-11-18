@@ -9,7 +9,9 @@ permalink: docs/GettingStarted
 {{ page.title }}
 ======================
 
-{: .note title="The following sections Cover:"}
+<br>
+
+{: .note title="The following sections Covers:"}
 Access, use cases and identification for `CSS / HTML ` on the website of [Itch.io](https://itch.io/) to get started in costumizing your very own content.
 
 Start with the [HTML Section](HTML) offering the basics of the website that are available to use without an approval from the creators or Itch.io offering useful changes to the listed areas listed here: [HTML Access](HtmlAccess), additionally see information on [Use Cases](UseCasesHtml) to get further information on what can be changed an how.

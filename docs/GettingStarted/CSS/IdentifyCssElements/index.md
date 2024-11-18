@@ -2,12 +2,14 @@
 title: Identify CSS elements
 layout: default
 parent: Getting Started
-nav_order: 3
+nav_order: 2
 parent: CSS
 ---
 
 {{ page.title }}
 ======================
+
+<br>
 
 {: .note}
 Nearly Everything seen on the user page or content page can be changed by Itch.io as long as you follow the rules outlined in [Itch.io's Guidelines](../CssAccess/) <br> <br>

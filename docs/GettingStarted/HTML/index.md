@@ -8,8 +8,10 @@ parent: Getting Started
 {{ page.title }}
 ======================
 
+<br>
+
 {: .note}
-The following topic is available for all users, without applying for a form such as required by [CSS](../CSS/CssAccess/) <br>
-Though the content here maybe change depending on requirements and time available, get started with introducing yourself to available areas, to which [HTML can be Used](./HtmlAccess/).
+The following topic is available for all users, without having the need to applying to a form such as required by [CSS](../CSS/CssAccess/) <br> <br>
+To see what HTML offers get started with introducing yourself to available areas [HTML Access](../HTML/HtmlAccess/), to which [HTML can be Used](./HtmlAccess/) and modified.
 
 Some of the content might not be written, or require modifications and might be delayed due to time restriction. If interested see at the bottom of the page to edit each page!
