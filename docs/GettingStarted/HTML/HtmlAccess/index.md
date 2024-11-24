@@ -24,7 +24,7 @@ Official Documentation - not available - .
 
 1. Creator Page
 
-To access go to [itch.io/user/settings](itch.io/user/settings), scroll down and find the `Profile Field`.
+To access go to [itch.io/user/settings](https://itch.io/user/settings), scroll down and find the `Profile Field`.
 Use the given option `<>` to access HTML editing area, and once finished click `<>` to go back to default view.
 
 {: .important}
