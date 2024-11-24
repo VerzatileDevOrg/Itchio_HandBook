@@ -15,7 +15,7 @@ permalink: docs/GettingStarted
 {: .note title="The following sections Covers:"}
 Access, use cases and identification for `CSS / HTML ` on the website of [Itch.io](https://itch.io/) to get started in costumizing your very own content.
 
-Start with the [HTML Section](/docs/GettingStarted/HTML/) offering the basics of the website that are available to use without an approval from the creators or Itch.io offering useful changes to the listed areas listed here: [HTML Access](/docs/GettingStarted/HTML/HtmlAccess/), additionally see information on [Use Cases](/docs/GettingStarted/HTML/UseCasesHtml/) to get further information on what can be changed an how.
+Start with the [HTML Section](https://verzatiledevorg.github.io/Itchio_HandBook/docs/GettingStarted/HTML/) offering the basics of the website that are available to use without an approval from the creators or Itch.io offering useful changes to the listed areas listed here: [HTML Access](https://verzatiledevorg.github.io/Itchio_HandBook/docs/GettingStarted/HTML/HtmlAccess/), additionally see information on [Use Cases](https://verzatiledevorg.github.io/Itchio_HandBook/docs/GettingStarted/HTML/UseCasesHtml/) to get further information on what can be changed an how.
 
-For more advanced users take a look at accessing [Itch.io's Css](/docs/GettingStarted/CSS/CssAccess/), offering wide variety of costumization to the visual side of content, to see the use cases and suggestions see [Css use cases](/docs/GettingStarted/CSS/UseCasesCss/).
+For more advanced users take a look at accessing [Itch.io's Css](https://verzatiledevorg.github.io/Itchio_HandBook/docs/GettingStarted/CSS/CssAccess/), offering wide variety of costumization to the visual side of content, to see the use cases and suggestions see [Css use cases](https://verzatiledevorg.github.io/Itchio_HandBook/docs/GettingStarted/CSS/UseCasesCss/).
 
