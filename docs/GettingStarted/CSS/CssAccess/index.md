@@ -2,9 +2,8 @@
 title: Access to CSS
 description: Article talks about on how to gain access to itch.io's CSS content on Itch.io. Read more here!..
 layout: default
-parent: Getting Started
-nav_order: 1
 parent: CSS
+nav_order: 1
 ---
 
 {{ page.title }}
