@@ -2,9 +2,8 @@
 title: Identify CSS elements
 description: Article talks about on how to identify itch.io's CSS content on Itch.io's creator or content page. Read more here!..
 layout: default
-parent: Getting Started
-nav_order: 2
 parent: CSS
+nav_order: 2
 ---
 
 {{ page.title }}
